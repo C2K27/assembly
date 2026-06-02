@@ -9,13 +9,17 @@ Manage members, roles, groups, tags, notes, activity records, and organizational
 
 Everything is stored locally on your computer.
 
+## Download
+
+[Download Assembly](https://github.com/YourName/Assembly/releases/latest/download/Assembly-Setup.exe)
+
 ## Why Assembly?
 
 Assembly was built because many modern applications require internet access, cloud accounts, subscriptions, AI integrations, or unnecessary complexity for tasks that should be simple.
 
 Many alternatives are either outdated, difficult to understand, locked behind paywalls, or built around services that users may not want.
 
-Assembly focuses on the basics:
+Assembly focuses on the basics: 
 
 * Manage members
 * Manage roles
@@ -23,44 +27,9 @@ Assembly focuses on the basics:
 * Track activity
 * Store records locally
 * Work completely offline
-<img width="1917" height="990" alt="Screenshot 2026-06-02 085805" src="https://github.com/user-attachments/assets/e8fe54ea-160d-4eda-8ff1-39d8580bb251" />
 
-No accounts.
+<img width="1917" height="990" alt="Screenshot 2026-06-02 085805" src="https://github.com/user-attachments/assets/aa4d57cb-b4cc-4598-a2f5-3dd173c1f4ee" />
 
-No cloud services.
-
-No subscriptions.
-
-No telemetry.
-
-No AI features.
-
-## Features
-
-* Member profiles
-* Roles and role hierarchy
-* Groups and teams
-* Tags
-* Activity timeline
-* Structure view
-* CSV import and export
-* JSON import and export
-* TXT import
-* PDF export
-* Automatic backups
-* Portable mode
-* Light and dark mode
-* Local image support
-
-## Downloads
-
-Download the latest release from the Releases page.
-
-## Privacy
-
-Assembly never requires an internet connection.
-
-Your data remains on your computer.
 
 ## License
 
