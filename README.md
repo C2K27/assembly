@@ -11,7 +11,7 @@ Everything is stored locally on your computer.
 
 ## Download
 
-[Download Assembly](https://github.com/YourName/Assembly/releases/latest/download/Assembly-Setup.exe)
+[Download Assembly](https://github.com/C2K27/Assembly/releases/latest/download/Assembly-Setup.exe)
 
 ## Why Assembly?
 
