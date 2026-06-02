@@ -1,6 +1,7 @@
 # Assembly
 
-![Assembly Banner](banner.png)
+<img width="1983" height="793" alt="Banner" src="https://github.com/user-attachments/assets/5cd27dee-51cb-47c8-8eb4-e2a06c38c5d8" />
+
 
 Assembly is a private, offline first member and organization management application.
 
@@ -22,6 +23,7 @@ Assembly focuses on the basics:
 * Track activity
 * Store records locally
 * Work completely offline
+<img width="1917" height="990" alt="Screenshot 2026-06-02 085805" src="https://github.com/user-attachments/assets/e8fe54ea-160d-4eda-8ff1-39d8580bb251" />
 
 No accounts.
 
