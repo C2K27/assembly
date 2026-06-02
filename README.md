@@ -1,7 +1,6 @@
 # Assembly
 
-<img width="1983" height="793" alt="Banner" src="https://github.com/user-attachments/assets/f00334ba-9066-4458-b0fb-d8c3393a0e48" />
-
+![Assembly Banner](banner.png)
 
 Assembly is a private, offline first member and organization management application.
 
